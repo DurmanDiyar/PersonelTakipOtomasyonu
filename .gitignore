@@ -1,0 +1,16 @@
+# IDE dosyaları
+.vs/
+.idea/
+
+# İşletim sistemi tarafından oluşturulan dosyalar
+.DS_Store
+Thumbs.db
+
+# Geçici veya derlenmiş dosyalar
+*.log
+*.tmp
+*.class
+*.exe
+
+# node_modules klasörünü hariç tutmak için
+node_modules/
